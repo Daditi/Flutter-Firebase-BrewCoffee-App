@@ -1,7 +1,11 @@
-# Register page           ................. SignIn Page ............... Home Page 
+# Register page         
+![](githubimages/register.png)   
 
-![](githubimages/register.png)     ![](githubimages/signin.png)  ![](githubimages/home.png)
+# SignIn Page
+![](githubimages/signin.png)
 
+# Home Page 
+![](githubimages/home.png)
 
 # Settings Navigator
 ![](githubimages/settings.png)
