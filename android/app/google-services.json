@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789795410258",
+    "firebase_url": "https://flutter-firebase-brewcoffe.firebaseio.com",
+    "project_id": "flutter-firebase-brewcoffe",
+    "storage_bucket": "flutter-firebase-brewcoffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789795410258:android:3ae175b76f1b4ad9ba2a8b",
+        "android_client_info": {
+          "package_name": "com.flutterfirebase.brewcoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789795410258-i75ncq38dbito3jqrqhqitk9v2mbappt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DMDo_vsZm6J16P_mSzp2QGRxBp6d16I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789795410258-i75ncq38dbito3jqrqhqitk9v2mbappt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
